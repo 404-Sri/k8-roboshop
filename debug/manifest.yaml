@@ -10,4 +10,4 @@ spec:
   containers:
   - name: debug
     image: bindusri09/debug:v1
-    #imagePullPolicy: Always
+    imagePullPolicy: Always
